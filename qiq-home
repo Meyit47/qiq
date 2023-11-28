@@ -4,6 +4,6 @@ b="\033[1;34m"
 w="\033[0m"
 
 cd 
-echo -e $b">>>"$w" Succes! You directory: "$g"qiq"$w
+echo -e $b">>>"$w" Başarılı! Sen dizinin: "$g"qiq"$w
 echo -e $b">>>"$w" /data/data/com.termux/files/home "$w
 cd
