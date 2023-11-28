@@ -3,7 +3,7 @@ r="\033[1;31m"
 b="\033[1;34m"
 w="\033[0m"
 
-echo -e $b">>>"$w" Enter directory name to: "$g"create"$w
+echo -e $b">>>"$w" Dizin adını girin: "$g"create"$w
 read qip1
 mkdir "$qip1"
-echo -e $b">>>"$w" Your directory created!: "$g"qip1"$w
+echo -e $b">>>"$w" Dizininiz oluşturuldu!: "$g"qip1"$w
