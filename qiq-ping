@@ -3,6 +3,6 @@ r="\033[1;31m"
 b="\033[1;34m"
 w="\033[0m"
 
-echo -e $b">>>"$w" Enter host to: "$g"ping"$w
+echo -e $b">>>"$w" Host şuraya girin:: "$g"ping"$w
 read qip1
 ping "$qip1"
