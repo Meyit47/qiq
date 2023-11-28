@@ -2,12 +2,11 @@
 
 cd
 cd
-figlet -f small 'Pree Enter To Start' | lolcat -p 1.5 
+figlet -f small 'Başlamak için Enter'a basın' | lolcat -p 1.5 
 echo '
-By misha korzhik (Міша Коржик) 
-Press Enter To Remove qiq... '| lolcat -p 1.5
-read a1
-echo 'removing qiq! please wait a moment'| lolcat -p 1.5
+Yazan: MEYİTZADE
+qiq Kaldırmak İçin Enter'a Basın.'read a1
+echo 'qiqi kaldırıyorum! Bir süre bekleyin lütfen'| lolcat -p 1.5
 cd
 cd
 cd /data/data/com.termux/files/usr/bin/
@@ -49,6 +48,6 @@ rm -rf Block.flf
 rm -rf Rusto.tlf
 rm -rf Basic.flf
 sleep 1.6
-echo 'Succesfull removed qiq!'| lolcat -p 1.5
+echo 'Başarıyla kaldırıldı qiq!'| lolcat -p 1.5
 
-# by mishakorzhik
+# by MEYİTZADE
