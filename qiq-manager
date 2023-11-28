@@ -3,6 +3,6 @@ r="\033[1;31m"
 b="\033[1;34m"
 w="\033[0m"
 
-echo -e $b">>>"$w" Starting qiq: "$g"file manager"$w
+echo -e $b">>>"$w" qiq Başlıyor: "$g"file manager"$w
 sleep 1
 mc
