@@ -3,15 +3,15 @@ r="\033[1;31m"
 b="\033[1;34m"
 w="\033[0m"
 
-echo -e $b">>>"$w" Enter module name to: "$g"reinstall"$w
+echo -e $b">>>"$w" Modül adını girin: "$g"reinstall"$w
 read qip3
-echo -e $b">>>"$w" One step. To reinstalling: "$g"$qip3"$w
+echo -e $b">>>"$w" Yeniden yüklemek için birinci adım: "$g"$qip3"$w
 pkg clean
 pkg reinstall "$qip3"
-echo -e $b">>>"$w" Two step. To reinstalling: "$g"$qip3"$w
+echo -e $b">>>"$w" Yeniden yüklemek için ikinci adım: "$g"$qip3"$w
 apt clean
 apt reinstall "$qip3"
-echo -e $b">>>"$w" Three step. To reinstallig: "$g"$qip3"$w
+echo -e $b">>>"$w" Yeniden yüklemek için üçüncü adım: "$g"$qip3"$w
 apt-get clean
 apt-get reinstall "$qip3"
-echo -e $b">>>"$w" Succesfull reinstalled module: "$g"$qip3"$w
+echo -e $b">>>"$w" Başarılıyla yeniden yüklenen modül: "$g"$qip3"$w
