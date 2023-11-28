@@ -3,5 +3,5 @@ r="\033[1;31m"
 b="\033[1;34m"
 w="\033[0m"
 
-echo -e $b">>>"$w" Your terminal: "$g"packages"$w
+echo -e $b">>>"$w" Terminaliniz: "$g"packages"$w
 pkg list-installed
