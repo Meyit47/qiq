@@ -1,45 +1,35 @@
 # qiq
-#### Package installer instead of:  pkg,  apt,  apt-get
+#### Bunun yerine paket yükleyici:  pkg,  apt,  apt-get
 
-#### Below is an installation for termux
-## Installing for termux
+#### Aşağıda termux için bir kurulum bulunmaktadır
+## Termux için kurulum
 
 * `pkg install git`
 * `git clone https://github.com/mishakorzik/qiq`
 * `cd qiq`
 * `bash install.sh`
 
-* `Succesfull installed!`
+* `Başarıyla kuruldu!`
 
-#### Below is an installation for ubuntu, debian
-## Installing for linux
+#### Artık her şey hazır ve yeni komutlar yazabilirsiniz!
+## Bilgiler
 
-* `apt install git`
-* `git clone https://github.com/mishakorzik/qiq`
-* `cd qiq`
-* `bash install.sh`
+> **Bir: qiq güncelleyebilirsiniz**
+###### qiq güncelleme komutu: qiq-update
 
-* `Succesfull installed!`
+> **İki: termux'ta yeni komutlarınız var**
+###### qiq hakkındaki bilgileri görebilirsiniz: qiq-help
 
-#### Now everything is ready and you can write new commands!
-## Information
-
-> **One: you can update qiq**
-###### qiq update command: qiq-update
-
-> **Two: you have new commands in termux**
-###### you can see information about qiq: qiq-help
-
-> **Three: You can do a lot with qiq**
-###### Example: qiq-install
+> **Üç: qiq ile çok şey yapabilirsiniz**
+###### Örnek: qiq-install
 
 ---
 
-* `By mishakorzhik`
-* `Tranks for read`
+* `By MEYİTZADE`
+* 'Okuduğunuz için teşekkürler'
 
 -------
-##### Report bugs for qiq
-* `developer.mishakorzhik@gmail.com`
+##### qiq için hataları bildirin
+* `https://t.me/Meyit47`
 
 
