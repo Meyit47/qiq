@@ -3,8 +3,8 @@ r="\033[1;31m"
 b="\033[1;34m"
 w="\033[0m"
 
-echo -e $b">>>"$w" developer: "$g"mishakorzhik"$w
-echo -e $b">>>"$w" installing: "$g"qiq = v1.22"$w
+echo -e $b">>>"$w" Geliştirici: "$g"MEYİTZADE"$w
+echo -e $b">>>"$w" yükleniyor: "$g"qiq = v1.22"$w
 cd
 cd
 apt install ruby
@@ -54,8 +54,8 @@ cd qiq
 cd .fonts
 chmod +x *
 cp * /data/data/com.termux/files/usr/share/figlet/
-figlet -f big 'Done!!!' | lolcat -p 1.0
-echo -e $b">>>"$w" run command to help qiq: "$g"qiq-help"$w
+figlet -f big 'Tamamlandı!!!' | lolcat -p 1.0
+echo -e $b">>>"$w" yardım etmek için komutu çalıştırın qiq: "$g"qiq-help"$w
 sleep 1
-echo -e $b">>>"$w" Trank for installing!: "$g"qiq"$w
-echo -e $b">>>"$w" Bye bye! Have a nice day!: "$g"qiq"$w
+echo -e $b">>>"$w" Kurulum için teşekkürler!: "$g"qiq"$w
+echo -e $b">>>"$w" Güle güle! İyi günler!: "$g"qiq"$w
