@@ -5,7 +5,7 @@
 ## Termux için kurulum
 
 * `pkg install git`
-* `git clone https://github.com/mishakorzik/qiq`
+* `git clone https://github.com/Meyit47/qiq`
 * `cd qiq`
 * `bash install.sh`
 
