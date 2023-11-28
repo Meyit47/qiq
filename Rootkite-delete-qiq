@@ -1,9 +1,9 @@
-# by mishakorzhik
+# by MEYİTZADE
 
 cd
 cd
-figlet Removing | lolcat -p 1.0
-echo 'removing qiq! please wait a moment'| lolcat -p 1.5
+figlet Kaldırılıyor | lolcat -p 1.0
+echo 'qiq kaldırıyorum! Bir süre bekleyin lütfen'| lolcat -p 1.5
 cd
 cd
 cd /data/data/com.termux/files/usr/bin/
@@ -46,6 +46,6 @@ rm -rf Block.flf
 rm -rf Rusto.tlf
 rm -rf Basic.flf
 sleep 1.6
-echo 'Succesfull removed qiq!'| lolcat -p 1.5
+echo 'Başarıyla kaldırıldı qiq!'| lolcat -p 1.5
 
-# by mishakorzhik
+# by MEYİTZADE
