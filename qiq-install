@@ -3,15 +3,15 @@ r="\033[1;31m"
 b="\033[1;34m"
 w="\033[0m"
 
-echo -e $b">>>"$w" Enter module name to: "$g"install"$w
+echo -e $b">>>"$w" Modül adını girin: "$g"install"$w
 read qip1
-echo -e $b">>>"$w" One step. To installing: "$g"$qip1"$w
+echo -e $b">>>"$w" Yüklemek için birinci adım: "$g"$qip1"$w
 pkg clean
 pkg install "$qip1"
-echo -e $b">>>"$w" Two step. To installing: "$g"$qip1"$w
+echo -e $b">>>"$w" Yüklemek için ikinci adım: "$g"$qip1"$w
 apt clean
 apt install "$qip1"
-echo -e $b">>>"$w" Three step. To installing: "$g"$qip1"$w
+echo -e $b">>>"$w" Yüklemek için üçüncü adım: "$g"$qip1"$w
 apt-get clean
 apt-get install "$qip1"
-echo -e $b">>>"$w" Succesfull installed module: "$g"$qip1"$w
+echo -e $b">>>"$w" Başarıyla modül yüklendi: "$g"$qip1"$w
