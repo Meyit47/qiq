@@ -3,7 +3,7 @@ r="\033[1;31m"
 b="\033[1;34m"
 w="\033[0m"
 
-echo -e $b">>>"$w" Enter host to info: "$g"install"$w
+echo -e $b">>>"$w"  bilgi için Host girin: "$g"install"$w
 read qip1
-echo -e $b">>>"$w" Succesfull host information: "$g"$qip1"$w
+echo -e $b">>>"$w" Başarılı! Host bilgileri: "$g"$qip1"$w
 host $qip1
