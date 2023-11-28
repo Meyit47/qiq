@@ -3,7 +3,7 @@ r="\033[1;31m"
 b="\033[1;34m"
 w="\033[0m"
 
-echo -e $b">>>"$w" developer: "$g"mishakorzhik"$w
+echo -e $b">>>"$w" geliştirici: "$g"MEYİTZADE"$w
 cd
 cd
 apt upgrade
@@ -15,5 +15,5 @@ rm -rf AutoUpdateMyTools
 git clone https://github.com/mishakorzik/AutoUpdateMyTools
 cd AutoUpdateMyTools
 bash qiqupdate.sh
-echo -e $b">>>"$w" SuccesFull updated!: "$g"qiq"$w
-echo -e $b">>>"$w" Bye bye! Have a nice day!: "$g"qiq"$w
+echo -e $b">>>"$w" Başarıyla güncellendi!: "$g"qiq"$w
+echo -e $b">>>"$w" Güle güle! İyi günler!: "$g"qiq"$w
